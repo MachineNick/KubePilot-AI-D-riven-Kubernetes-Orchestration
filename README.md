@@ -199,30 +199,6 @@ jobs:
             ./app
 ```
 
-### `LICENSE`
 
-```text
-MIT License
 
-Copyright (c) 2025
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
-
-## Next steps (suggested)
-
-* Replace the example app with your real microservice and update the Dockerfile.
-* Add your k3s cluster provisioning scripts (cloud-init, Terraform, or user-data for EC2).
-* Harden MCP servers (authentication, TLS) before exposing publicly.
-* Add real CI/CD (push to ECR/GCR and deploy using kubectl or a GitOps tool).
-
----
-
-If you want, I can also:
-
-* Generate this as a zip file for download, or
-* Push it to a GitHub repo if you provide a repo name and allow me to create it for you.
