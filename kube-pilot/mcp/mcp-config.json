@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "kubernetes": {
+      "command": "npx",
+      "args": [
+        "kubernetes-mcp-server@latest"
+      ]
+    },
+    "cdk": {
+      "command": "npx",
+      "args": [
+        "cdk-mcp-server@latest"
+      ]
+    }
+  }
+}
